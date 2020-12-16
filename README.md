@@ -1,6 +1,6 @@
 
 # Workshop-reprogramabr
-site desenvolvido durante o workshop front-end em Agosto/2020
+Agosto/2020
 
 
 
