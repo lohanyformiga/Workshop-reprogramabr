@@ -5,8 +5,9 @@ site desenvolvido durante o workshop front-end em Agosto/2020
 # Sobre mim
 
 <p align="center">
-  <img width="700" height="266" src="">
+  <img width="700" height="366" src="https://images.unsplash.com/photo-1521391406205-4a6af174a4c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=775&q=80">
 </p>
+
 
 ## Sobre :speech_balloon:
 Site desenvolvido durante o workshop da reprograma onde tivemos que criar o portfolio.
